@@ -1,0 +1,18 @@
+[
+  {
+    "label": "Nombre de Sala",
+    "description": "Nomebre de la sala de appear.in"
+  },
+  {
+    "label": "Ajustar al contenedor",
+    "description": "Ajustar la sala de conversación al contenedor, esto reemplazará cualquier altura y ancho definidos con valores del 100%."
+  },
+  {
+    "label": "Altura",
+    "description": "Fijar altura de la sala de conversación"
+  },
+  {
+    "label": "Ancho",
+    "description": "Fijar el ancho de la sala de conversación"
+  }
+]
